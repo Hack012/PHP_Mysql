@@ -1,0 +1,37 @@
+[]
+[<Package: name:'language-pack-gnome-ko' architecture='amd64' id:4059>, <Package: name:'hunspell-ko' architecture='amd64' id:1317>, <Package: name:'libreoffice-l10n-ko' architecture='amd64' id:7196>, <Package: name:'language-pack-ko' architecture='amd64' id:4061>, <Package: name:'language-pack-gnome-ko-base' architecture='amd64' id:4060>, <Package: name:'libreoffice-help-ko' architecture='amd64' id:7195>, <Package: name:'firefox-locale-ko' architecture='amd64' id:2005>, <Package: name:'language-pack-ko-base' architecture='amd64' id:2006>, <Package: name:'thunderbird-locale-ko' architecture='amd64' id:11595>]
+[]
+[<Package: name:'language-pack-gnome-ko' architecture='amd64' id:4059>, <Package: name:'hunspell-ko' architecture='amd64' id:1317>, <Package: name:'libreoffice-l10n-ko' architecture='amd64' id:7196>, <Package: name:'language-pack-ko' architecture='amd64' id:4061>, <Package: name:'language-pack-gnome-ko-base' architecture='amd64' id:4060>, <Package: name:'libreoffice-help-ko' architecture='amd64' id:7195>, <Package: name:'firefox-locale-ko' architecture='amd64' id:2005>, <Package: name:'language-pack-ko-base' architecture='amd64' id:2006>, <Package: name:'thunderbird-locale-ko' architecture='amd64' id:11595>]
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x1a00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x1a00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3600001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x1a00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3600001 to texture
+ERROR 2019-08-18 23:24:22 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2019-08-18 23:24:22 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2019-08-18 23:24:22 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x1a00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3e00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3e00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x1a00001 to texture

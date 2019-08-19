@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/icc/.cache/upstart/ssh-agent.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/upstart-event-bridge.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/gpg-agent.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/unity7.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/indicator-sound.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/window-stack-bridge.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/bamfdaemon.log" 2019-8-18-22:0:0
+"/home/icc/.cache/upstart/dbus.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/hud.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/gnome-keyring-ssh.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_zeitgeist-daemon.1000.crash.log" 2019-8-18-22:0:0
+"/home/icc/.cache/upstart/update-notifier-release.log" 2019-8-18-22:0:0
+"/home/icc/.cache/upstart/unity-settings-daemon.log" 2019-8-18-22:39:58
+"/home/icc/.cache/upstart/unity-panel-service.log" 2019-8-18-22:39:58
